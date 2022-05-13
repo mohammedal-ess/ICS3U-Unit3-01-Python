@@ -53,10 +53,10 @@
                 <mxCell id="7" value="get second int number&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="180" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="add first integer number with second integer number&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="18" value="you guessing the number he guessing between 0-9&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="300" y="440" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="get the total of addtion number&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="20" value="if user choose 3 you are correctly&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="470" y="340" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
